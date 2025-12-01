@@ -18,30 +18,11 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/misaka4e21">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=misaka4e21&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=misaka4e21&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=misaka4e21&show_icons=true" />
-  </picture>
-</a>
-<a href="https://github.com/misaka4e21">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=misaka4e21&layout=compact&langs_count=10&card_width=320&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=misaka4e21&layout=compact&langs_count=10&card_width=320"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=misaka4e21&layout=compact&langs_count=10&card_width=320" />
-  </picture>
+  <picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=misaka4e21&screen_effect=true&theme=rainbow">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=misaka4e21&screen_effect=true&theme=rainbow">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=misaka4e21&screen_effect=true&theme=rainbow">
+</picture>
 </a>
 
 ### Status

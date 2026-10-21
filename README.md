@@ -19,15 +19,17 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/misaka4e21">
   <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=misaka4e21&screen_effect=true&theme=rainbow">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=misaka4e21&screen_effect=true&theme=rainbow">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=misaka4e21&screen_effect=true&theme=rainbow">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=misaka4e21&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=misaka4e21&show_icons=true&theme=dark">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=misaka4e21&show_icons=true">
 </picture>
 </a>
 
 ### Status
 - Currently working on:
   - Package some software for [AOSC OS](https://github.com/AOSC-Dev)
+  - [MyGO language](https://github.com/mygo-lang): Transpiler to Golang
+  - [Commune](https://github.com/commune-project): ActivityPub-enabled forum server
 - Formerly worked on:
   - [Discourse](https://github.com/discourse)
   - limonnur forum

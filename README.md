@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/misaka4e21">
   <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=misaka4e21&show_icons=true">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=misaka4e21&show_icons=true&theme=dark">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=misaka4e21&show_icons=true">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg">
+  <img alt="github stats" src="./profile/stats.svg">
 </picture>
 </a>
 
